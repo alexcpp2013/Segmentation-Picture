@@ -1,0 +1,29 @@
+﻿Build started 22.05.2013 18:34:08.
+     1>Project "G:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\С++\graph\GraphBasedSegments\GraphBasedSegments.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\GraphBasedSegments.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt segment.cpp
+         segment.cpp
+     1>g:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\с++\graph\graphbasedsegments\pnmfile.h(148): warning C4101: 'doc' : unreferenced local variable
+     1>g:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\с++\graph\graphbasedsegments\imconv.h(84): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\с++\graph\graphbasedsegments\filter.h(58): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>g:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\с++\graph\graphbasedsegments\segment-image.h(31): warning C4101: 'r' : unreferenced local variable
+     1>segment.cpp(29): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>segment.cpp(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(304) : see declaration of 'scanf'
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\С++\graph\Release\GraphBasedSegments.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\GraphBasedSegments.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\С++\graph\Release\GraphBasedSegments.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\С++\graph\Release\GraphBasedSegments.lib" /MACHINE:X86 Release\segment.obj
+         Generating code
+         Finished generating code
+         GraphBasedSegments.vcxproj -> G:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\С++\graph\Release\GraphBasedSegments.exe
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\С++\graph\Release\GraphBasedSegments.exe;#1" /manifest Release\GraphBasedSegments.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\GraphBasedSegments.unsuccessfulbuild".
+         Touching "Release\GraphBasedSegments.lastbuildstate".
+     1>Done Building Project "G:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\С++\graph\GraphBasedSegments\GraphBasedSegments.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.87

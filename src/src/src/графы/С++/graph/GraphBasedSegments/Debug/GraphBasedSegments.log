@@ -1,0 +1,34 @@
+﻿Build started 21.05.2013 19:02:08.
+     1>Project "G:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\С++\graph\GraphBasedSegments\GraphBasedSegments.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\GraphBasedSegments.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt segment.cpp
+         segment.cpp
+     1>g:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\с++\graph\graphbasedsegments\pnmfile.h(148): warning C4101: 'doc' : unreferenced local variable
+     1>g:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\с++\graph\graphbasedsegments\imconv.h(84): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\с++\graph\graphbasedsegments\filter.h(58): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>g:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\с++\graph\graphbasedsegments\segment-image.h(31): warning C4101: 'r' : unreferenced local variable
+     1>g:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\с++\graph\graphbasedsegments\segment.cpp(29): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>g:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\с++\graph\graphbasedsegments\segment.cpp(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\С++\graph\Debug\GraphBasedSegments.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\GraphBasedSegments.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\С++\graph\Debug\GraphBasedSegments.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\С++\graph\Debug\GraphBasedSegments.lib" /MACHINE:X86 Debug\GraphBasedSegments.exe.embed.manifest.res
+         Debug\segment.obj
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\GraphBasedSegments.exe.embed.manifest" /manifest Debug\GraphBasedSegments.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         GraphBasedSegments.vcxproj -> G:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\С++\graph\Debug\GraphBasedSegments.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\GraphBasedSegments.unsuccessfulbuild".
+         Touching "Debug\GraphBasedSegments.lastbuildstate".
+     1>Done Building Project "G:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\графы\С++\graph\GraphBasedSegments\GraphBasedSegments.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.40

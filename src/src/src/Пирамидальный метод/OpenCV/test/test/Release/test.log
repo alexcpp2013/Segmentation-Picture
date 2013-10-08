@@ -1,0 +1,18 @@
+﻿Build started 22.05.2013 18:42:20.
+     1>Project "G:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\Пирамидальный метод\OpenCV\test\test\test.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\test.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         test.vcxproj -> G:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\Пирамидальный метод\OpenCV\test\Release\test.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\test.unsuccessfulbuild".
+         Touching "Release\test.lastbuildstate".
+     1>Done Building Project "G:\data\ipsa\10 semestr\labs\capshuk\курсовой\курсовой_source\src\src\Пирамидальный метод\OpenCV\test\test\test.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.18
